@@ -1,16 +1,15 @@
-## Hi there 👋
+项目总结
 
-<!--
-**NtoStudy/NtoStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+项目1：非遗传承项目 -- 仓库 precious-cultural (持续开发中)
 
-Here are some ideas to get you started:
+项目2：诗词学习项目 -- 仓库 precious-cultural (持续开发中)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+项目3：学工系统项目 -- 仓库 NH-School-admin (vue2+js迭代vue3中)
+
+项目4：大屏可视化项目 -- 仓库 vue-echarts (已完结)
+
+
+
+
+
+近日总结[![fovik's GitHub | Languages Over Time](https://stats.quira.sh/fovik/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=fovik)
